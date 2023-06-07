@@ -1,6 +1,6 @@
 from random import randint
 
-rundom_namber = randint(1, 10)
+rundom_namber = randint(1, 1000)
 count_try = 0
 
 while count_try < 10:
